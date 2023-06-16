@@ -1,0 +1,14 @@
+# Ignore all, except
+*
+!.git
+!.github
+!.gitignore
+!.vscode
+!src
+!tests
+!.env
+!deno.jsonc
+!deno.lock
+!Makefile
+!package.json
+!REAME.md
