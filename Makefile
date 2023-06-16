@@ -6,3 +6,6 @@ r:
 
 t:
 	deno test tests/
+
+or:
+	open https://github.com/guimassoqueto/scraper-deno-puppeteer
