@@ -1,0 +1,8 @@
+{
+  "name": "@deno/deno-scrap-puppeteer-screenshot",
+  "description": "An example app created with Deno",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.2"
+  }
+}
